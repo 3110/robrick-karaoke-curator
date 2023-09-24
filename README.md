@@ -1,6 +1,6 @@
 # ロボホンが「ボクと歌お」の曲をおすすめしてくれるアプリ
 
-ロボホンのアプリ「[ボクと歌お](https://robohon.com/apps/app33.php)」の有償オプションで歌える曲は 2023 年 9 月 27 日現在で 291 曲もあります。何が歌えるのか覚えてないですし，背中の画面で一覧を見るものつらいですし，[ボクと歌お](https://robohon.com/apps/app33.php)のページにある[『ボクと歌お』楽曲一覧](https://robohon.com/apps/app33.php#main-box)を毎回見るのも大変ですよね。
+ロボホンのアプリ「[ボクと歌お](https://robohon.com/apps/app33.php)」の有償オプションで歌える曲は 2023 年 9 月 27 日現在で 280 曲（＋無償で歌える曲が11曲で計 291 曲）もあります。何が歌えるのか覚えてないですし，背中の画面で一覧を見るものつらいですし，[ボクと歌お](https://robohon.com/apps/app33.php)のページにある[『ボクと歌お』楽曲一覧](https://robohon.com/apps/app33.php#main-box)を毎回見るのも大変ですよね。
 
 そこで，[ロブリック](https://robohon.com/apps/robrick.php)を使ってロボホンがおすすめの曲を教えてくれるアプリを作りました。
 
